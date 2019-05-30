@@ -1,0 +1,144 @@
+body{
+    background-color:#000;
+    color:#fff;
+}
+.nav a{
+    color:#fff;
+}
+
+.daysBox{
+    display:inline-block;
+    width:20%;
+    font-size:12px;    
+    
+    }
+
+.nav-logo{
+    width:50px;
+}
+.nav-item:hover{
+    background-color:rgba(189, 189, 189,0.2);
+}
+#navbarSupportedContent .nav{
+    margin-top:-5px;
+}
+#item1{
+    border-top:5px solid #000;
+    
+}
+#item2{
+    
+    border-top:5px solid #000;
+}
+#item3{
+    
+    border-top:5px solid #000;
+}
+#item4{
+    border-top:5px solid #000;
+    
+}
+#item5{
+    border-top:5px solid #000;
+}
+#item1:hover{
+    border-top:5px solid rgb(209, 17, 17);
+}
+#item2:hover{
+    border-top:5px solid #2E5EAA;
+}
+#item3:hover{
+    border-top:5px solid #55D6BE;
+}
+#item4:hover{
+    border-top:5px solid #2BC016;
+}
+#item5:hover{
+    border-top:5px solid #FDE74C;
+}
+.search-bar{
+    margin-right:0!important;
+    border-radius: 0;
+    border:none;
+
+}
+.search-button{
+    border-radius:0;
+    border-left: 1px solid rgb(226, 224, 224);
+}
+.news {
+    background-color:#000;
+}
+
+.menu-wrapper{
+    position:relative;
+}
+.right{
+    position:absolute;
+    right:0;
+}
+
+.today-temp{
+    display:inline-block;
+    font-size:70px;
+    color:#FEAE3C;
+    max-width: 100%;
+    height: auto;
+    -ms-interpolation-mode: bicubic;
+    vertical-align: middle;
+    margin: 0 10%;
+}
+.unit{
+    font-size:20px;
+    color:#fff;
+    display:inline-block;
+    position: relative;
+    top:-28px;
+    
+}
+.degree{
+    font-size:15px;
+    color:#fff;
+    margin-top:0;
+    font-style: italic;
+    line-height:8px;
+}
+
+.icon{
+    max-width: 100%;
+    height: auto;
+    -ms-interpolation-mode: bicubic;
+    display: inline-block;
+    vertical-align: middle;
+}
+.humidity{
+    font-size:30px;
+}
+.daysday{
+    line-height:8px;
+}
+
+.subscribe-band{
+    margin:3% 0;
+    background-color:#333;
+    border-bottom: 1px solid #575757;
+    border-top: 1px solid #575757;
+    padding:15px;
+}
+.subscribe-button{
+    background-color:#1088b0;
+    padding:5px 5%;
+    border: 1px solid #0d7496;
+    margin-left: 2%;
+}
+
+.news{
+    margin-bottom:4%;
+}
+.news a{
+    color:#1088b0;
+}
+.news a:hover{
+    color:#139ecc;
+    text-decoration: underline;
+}
