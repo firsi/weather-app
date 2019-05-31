@@ -2,6 +2,7 @@
   "name": "weather-app",
   "version": "0.1.0",
   "private": true,
+  "homepage":"https://yourusername.github.io/repository-name",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.8.6",
